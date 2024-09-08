@@ -1,0 +1,26 @@
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registrationform.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.Registrationform.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MY PC\Documents\SCHOOL\development software\CODING\C# PROJECTS\healthcare management system\obj\Debug\WindowsFormsApp1.pdb
