@@ -16,8 +16,8 @@ namespace WindowsFormsApp1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-            var homePageImage = Resource1.loginPageimage;
+            Application.Run(new HomePage());
+           
         }
     }
 }

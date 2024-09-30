@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace WindowsFormsApp1
 {
@@ -44,10 +45,25 @@ namespace WindowsFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
+            Registrationform registrationForm = new Registrationform();
+            this.Hide();
+            registrationForm.Show();
 
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+            loginPage login = new loginPage();
+            login.Show();
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click_2(object sender, EventArgs e)
         {
 
         }

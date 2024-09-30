@@ -11,9 +11,9 @@ using System.Windows.Forms;
 namespace WindowsFormsApp1
 {
 
-    public partial class Form1 : Form
+    public partial class loginPage : Form
     {
-        public Form1()
+        public loginPage()
         {
             InitializeComponent();
         }
@@ -22,20 +22,22 @@ namespace WindowsFormsApp1
         {
 
            
-            string username = loginUername.Text.ToLower();
+            string username = loginUsername.Text;
             string password = loginPassword.Text;
 
-            if (username == "Thabo" && password == "1234")
+            if (username == "thabo" && password == "1234")
             {
                 MessageBox.Show("You have logged in successfully");
-                this.Hide();
-                Registrationform regForm = new Registrationform();
-                regForm.Show();
-                  
+                this.Close();
+                dashboard dashboard = new dashboard();
+                dashboard.Show();
+
             }
             else
             {
                 MessageBox.Show("Invalid username or password.", "Login Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                loginUsername.Clear();
+                loginPassword.Clear();
             }
         }
 
