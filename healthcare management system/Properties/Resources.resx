@@ -118,7 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Icons8-Ios7-Very-Basic-About.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons8-Ios7-Very-Basic-About.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="openart-image_h8RNz1Lg_1725643481267_raw" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\openart-image_h8RNz1Lg_1725643481267_raw.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Github-Octicons-Home-24.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Github-Octicons-Home-24.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icons8-Ios7-Time-And-Date-Month-View.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icons8-Ios7-Time-And-Date-Month-View.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ionic-Ionicons-Settings-outline.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ionic-Ionicons-Settings-outline.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2024-09-15 at 13.20.07_60254a4a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2024-09-15 at 13.20.07_60254a4a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Github-Octicons-Home-241" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Github-Octicons-Home-24.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2024-09-15 at 13.201" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2024-09-15 at 13.20.07_60254a4a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ionic-Ionicons-Notifications.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ionic-Ionicons-Notifications.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pictogrammers-Material-Account-arrow-left-outline.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pictogrammers-Material-Account-arrow-left-outline.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Silky-Line-User-User-fav.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Silky-Line-User-User-fav.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fa-Team-Fontawesome-FontAwesome-Map-Location-Dot.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fa-Team-Fontawesome-FontAwesome-Map-Location-Dot.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pinterestdownloader.com-1726759947.676745" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pinterestdownloader.com-1726759947.676745.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

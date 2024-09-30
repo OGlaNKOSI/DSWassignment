@@ -63,9 +63,129 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Custom_Icon_Design_Silky_Line_User_User_fav_512 {
+            get {
+                object obj = ResourceManager.GetObject("Custom-Icon-Design-Silky-Line-User-User-fav.512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Fa_Team_Fontawesome_FontAwesome_Map_Location_Dot_512 {
+            get {
+                object obj = ResourceManager.GetObject("Fa-Team-Fontawesome-FontAwesome-Map-Location-Dot.512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Github_Octicons_Home_24_512 {
+            get {
+                object obj = ResourceManager.GetObject("Github-Octicons-Home-24.512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Github_Octicons_Home_241 {
+            get {
+                object obj = ResourceManager.GetObject("Github-Octicons-Home-241", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icons8_Ios7_Time_And_Date_Month_View_512 {
+            get {
+                object obj = ResourceManager.GetObject("Icons8-Ios7-Time-And-Date-Month-View.512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icons8_Ios7_Very_Basic_About_512 {
+            get {
+                object obj = ResourceManager.GetObject("Icons8-Ios7-Very-Basic-About.512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ionic_Ionicons_Notifications_512 {
+            get {
+                object obj = ResourceManager.GetObject("Ionic-Ionicons-Notifications.512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ionic_Ionicons_Settings_outline_512 {
+            get {
+                object obj = ResourceManager.GetObject("Ionic-Ionicons-Settings-outline.512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap openart_image_h8RNz1Lg_1725643481267_raw {
             get {
                 object obj = ResourceManager.GetObject("openart-image_h8RNz1Lg_1725643481267_raw", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Pictogrammers_Material_Account_arrow_left_outline_512 {
+            get {
+                object obj = ResourceManager.GetObject("Pictogrammers-Material-Account-arrow-left-outline.512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pinterestdownloader_com_1726759947_676745 {
+            get {
+                object obj = ResourceManager.GetObject("pinterestdownloader.com-1726759947.676745", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2024_09_15_at_13_20_07_60254a4a {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2024-09-15 at 13.20.07_60254a4a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2024_09_15_at_13_201 {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2024-09-15 at 13.201", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
